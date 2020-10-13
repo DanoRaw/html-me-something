@@ -1,0 +1,105 @@
+
+  .header {
+      text-align: center;
+      font-family: Lucida Typewriter;
+      background-color: lightsalmon;
+      color: darkslategrey;
+      border-style:double;
+      border-color: greenyellow;
+  }
+  
+  .whole-thing {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(80, 112, 80);
+  }
+  
+  /* Style the top navigation bar */
+  .navigation {
+    overflow: hidden;
+    background-color: #333;
+    
+  }
+  
+  
+  .navigation a {
+    float: center;
+    display: block;
+    color: grey;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: underline overline dotted lightsalmon;
+    
+  }
+  
+  
+  .navigation a:hover {
+    background-color:greenyellow;
+    color: black;
+  }
+
+  .navigation ul {
+      list-style:none;
+      font-style: oblique;
+      
+  }
+
+  .sub-headings  {
+      text-align: center;
+      color:rgb(13, 43, 43);
+      font-family: lucida Typewriter;
+      background-color: lightsalmon ;
+      border-style: double;
+      border-color:#333;
+
+  }
+
+
+ img {
+     border: 5px solid black;
+ }
+
+ .spuds {
+     width: 30%;
+     margin: 5% 7%;
+     border: 6px solid black;
+     display: inline-block;
+ }
+
+ #bbears {
+     width: 15%;
+     margin: auto;
+     border: 8px solid black;
+     display: block;
+ }
+
+ .bbott {
+     width: 20%;
+     margin: 1% 6%;
+     border: 6px solid black;
+     display: inline-block;
+ }
+
+ .both {
+     width: 20%;
+     margin: 1% 6%;
+     border: 6px solid black;
+     display: inline-block;
+ }
+
+  .foot {
+      background-color:#333;
+      color: whitesmoke;
+      text-align: center;
+      border-style: double;
+      border-color: greenyellow;
+  }
+
+  p {
+      background-color: #333;
+      color:rgb(170, 137, 104);
+      border-style: solid;
+      border-color:greenyellow;
+      font-size: large;
+  }
+  
